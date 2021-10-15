@@ -1,0 +1,2 @@
+(this["webpackJsonpjamhacks.ca"]=this["webpackJsonpjamhacks.ca"]||[]).push([[6],{207:function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a);t.default=function(){return r.a.createElement("div",{style:{textAlign:"center",marginTop:"40vh"}},r.a.createElement("h1",null,"Page Not Found"),r.a.createElement("h3",null,r.a.createElement("a",{rel:"noopener noreferrer",href:"/"},"Return to Home")))}}}]);
+//# sourceMappingURL=6.856dd0a8.chunk.js.map
